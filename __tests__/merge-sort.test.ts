@@ -1,4 +1,4 @@
-import mergeSort from './merge-sort';
+import mergeSort from '../sort/merge-sort';
 
 test('sort unique values', () => {
   //arrange
